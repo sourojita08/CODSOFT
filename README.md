@@ -18,3 +18,10 @@ The evaluation of the Random Forest Regressor:-
 Mean Squared Error (MSE) = 0.39315259282178205, 
 Mean Absolute Error (MAE) = 0.4164962871287127, 
 R-squared (R2) score = 0.7939269460340179 indicated that approximately 79.39% of the variance in the movie ratings was explained by the model.
+
+
+CODSOFT (Task-2)
+Iris Flower Classification:-
+
+The Iris dataset is a classic dataset in machine learning, containing three classes of Iris species: Iris Setosa, Iris Versicolour, and Iris Virginica. Each class has 50 samples with four features: sepal length, sepal width, petal length, and petal width.
+All of the evaluated models, i.e., Logistic Regression, KNN, Random Forest and Decision Tree, achieved a perfect score of 97.78% on the Iris dataset. This indicates that they were all very effective at classifying the different species of iris flowers.
